@@ -1,4 +1,4 @@
-# PythonPrintParagraph
+# Assignment: Print Paragraph
 
 # Rodrigo Alcover
 # 08/09/2021
