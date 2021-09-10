@@ -5,7 +5,7 @@
 
 
 print('''
-Hello world, my name is Rodrigo Alcover 40 years old, and born in Buenos Aires, Argentina.
+Hello world, my name is Rodrigo Alcover. I'm 40 years old, and born in Buenos Aires, Argentina.
 
 I'm a KVCC student for the last three years, seeking a software development degree. 
 
